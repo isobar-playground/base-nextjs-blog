@@ -1,0 +1,22 @@
+vercel_token      = "vercel_pat_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+project_name      = "base-nextjs-blog"
+team_id           = ""
+framework         = "nextjs"
+
+git_provider      = ""
+git_owner         = ""
+git_repo          = ""
+production_branch = "main"
+
+build_command     = null
+output_directory  = null
+
+env_production = {
+  
+}
+
+env_preview = {
+  
+}
+
+domains = []
